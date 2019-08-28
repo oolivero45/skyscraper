@@ -3,7 +3,7 @@ Python 3 and JavaScript scripts to scrape channel images from the Sky TV Guide. 
 
 ## Requirements
 - Python 3
-- [tqdm](https://github.com/tqdm/tqdm) (Used for progress bars)
+- [tqdm](https://github.com/tqdm/tqdm) (Used for progress bars) - Optional
 
 ## Usage
 *Steps 1 to 4 can be skipped, but it is strongly recommended that you do not skip them, as they will ensure you are using the most up-to-date list of channels possible. Skipping these steps means that you will download the images for all channels as of 2019-08-28, but will not download any images for channels added to the Sky TV Guide after that date.*
